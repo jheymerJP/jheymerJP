@@ -72,10 +72,7 @@ Actualmente me encuentro aprendiendo y desarrollando proyectos utilizando difere
 
 
 
-# 🏆 Trofeos
 
-
----
 
 #  Frase
 
