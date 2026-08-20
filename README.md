@@ -46,7 +46,6 @@ Actualmente me encuentro aprendiendo y desarrollando proyectos utilizando difere
 - 🎨 CSS3
 - ⚡ JavaScript
 - 🗄️ Bases de Datos
-- 🔐 Ciberseguridad
 - 📱 Desarrollo de Software
 
 ---
@@ -62,15 +61,6 @@ Actualmente me encuentro aprendiendo y desarrollando proyectos utilizando difere
 ✔ Compartir conocimiento mediante redes sociales.
 
 ---
-
-
-
-
-
-# 🔥 Racha de contribuciones
-
-
-
 
 
 
