@@ -1,79 +1,134 @@
 <div align="center">
-<h1>¡Hola! 👋 Soy JheymerJP</h1>
-<h3> Ingeniería de Sistemas | Desarrollador en aprendizaje</h3>
 
-<img src="https://imgur.com/bPi1zdw.jpeg" width="100%">
+# 👋 ¡Hola! Soy **JheymerJP**
 
-<br>
+### 🎓 Estudiante de Ingeniería de Sistemas · 💻 Developer en formación
+
+<p>
+  <i>Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo línea por línea.</i>
+</p>
+
+<img src="https://imgur.com/bPi1zdw.jpeg" width="100%" alt="Banner JheymerJP">
+
+<br><br>
 
 <a href="https://www.instagram.com/jheymer_02/">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
 </a>
-
+&nbsp;
 <a href="https://www.youtube.com/@jheymerjp">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
 </a>
-
-
+&nbsp;
 <a href="https://www.tiktok.com/@jheymer_jp">
-<img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white">
+  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
+## 🚀 Sobre mí
 
-🎓 Soy estudiante de **Ingeniería de Sistemas** apasionado por la tecnología y el desarrollo de software.
+Soy estudiante de **Ingeniería de Sistemas** apasionado por la tecnología, el desarrollo de software y la creación de proyectos.
 
-Actualmente me encuentro aprendiendo y desarrollando proyectos utilizando diferentes tecnologías, con el objetivo de convertirme en un desarrollador Full Stack.
+Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y herramientas con el objetivo de convertirme en un **desarrollador Full Stack**.
 
-## 💻 Tecnologías que utilizo
-
-<p align="center">
-
-
-</p>
+> 💡 Mi objetivo no es solamente aprender tecnologías, sino utilizarlas para crear soluciones reales.
 
 ---
 
-# 📚 Actualmente aprendiendo
+## 🛠️ Tecnologías & Herramientas
 
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 🗄️ Bases de Datos
-- 📱 Desarrollo de Software
+<div align="center">
+
+### 💻 Lenguajes
+
+<img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Lenguajes">
+
+### ⚡ Frameworks & Desarrollo
+
+<img src="https://skillicons.dev/icons?i=react,angular,spring" alt="Frameworks">
+
+### 🗄️ Bases de Datos
+
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Bases de datos">
+
+### 🔧 Herramientas
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Herramientas">
+
+</div>
 
 ---
 
-# 🚀 Objetivos
+## 📚 Actualmente aprendiendo
 
-✔ Mejorar mis habilidades como desarrollador.
+```text
+☕ Java              █████████░░  80%
+🐍 Python            ████████░░░  70%
+⚡ JavaScript        ███████░░░░  65%
+🌐 HTML & CSS        █████████░░  85%
+🅰️ Angular           ██████░░░░░  60%
+⚛️ React             ██████░░░░░  60%
+🍃 Spring Boot       ██████░░░░░  55%
+🗄️ Bases de Datos    ████████░░░  75%
+```
 
-✔ Crear proyectos útiles y de código abierto.
-
-✔ Aprender nuevas tecnologías constantemente.
-
-✔ Compartir conocimiento mediante redes sociales.
+> *Los porcentajes representan mi progreso personal y se actualizan conforme continúo aprendiendo.*
 
 ---
 
+## 🚀 Objetivos
 
+* 💻 Mejorar continuamente mis habilidades como desarrollador.
+* 🧠 Aprender nuevas tecnologías y buenas prácticas.
+* 🚀 Crear proyectos útiles e interesantes.
+* 🌎 Contribuir a proyectos de código abierto.
+* 📚 Compartir lo que aprendo con la comunidad.
+* 🎯 Construir experiencia para desarrollarme profesionalmente como **Full Stack Developer**.
 
-#  Frase
+---
 
-> *"Nunca dejes de aprender; cada línea de código te acerca a tu próxima gran oportunidad."* 🚀
+## 📊 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JheymerJP&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JheymerJP&layout=compact&theme=tokyonight&hide_border=true" height="170">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=JheymerJP&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+## 🌱 Un poco de mi filosofía
+
+<div align="center">
+
+> ### *"Nunca dejes de aprender; cada línea de código te acerca a tu próxima gran oportunidad."* 🚀
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Gracias por visitar mi perfil ⭐
+### ⭐ Gracias por visitar mi perfil
 
-Si te gustan mis proyectos, ¡no olvides dejar una ⭐!
+**Si alguno de mis proyectos te resulta útil o interesante, considera dejar una ⭐**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=JheymerJP&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="Visitas al perfil">
+
+<br><br>
+
+**JheymerJP · Ingeniería de Sistemas · Perú 🇵🇪**
 
 </div>
+
