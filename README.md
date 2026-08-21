@@ -9,19 +9,6 @@
 </p>
 
 <img src="https://imgur.com/bPi1zdw.jpeg" width="100%" alt="Banner JheymerJP">
-
-<br><br>
-
-<a href="https://www.instagram.com/jheymer_02/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-&nbsp;
-<a href="https://www.youtube.com/@jheymerjp">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-&nbsp;
-<a href="https://www.tiktok.com/@jheymer_jp">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok">
 </a>
 
 </div>
