@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy **JheymerJP**
 
-### 🎓 Estudiante de Ingeniería de Sistemas · 💻 Developer en formación
+### 🎓 Estudiante de Ingeniería de Sistemas · 
 
 <p>
   <i>Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo línea por línea.</i>
@@ -19,7 +19,7 @@
 
 Soy estudiante de **Ingeniería de Sistemas** apasionado por la tecnología, el desarrollo de software y la creación de proyectos.
 
-Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y herramientas con el objetivo de convertirme en un **desarrollador Full Stack**.
+Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y herramientas 
 
 > 💡 Mi objetivo no es solamente aprender tecnologías, sino utilizarlas para crear soluciones reales.
 
@@ -52,8 +52,8 @@ Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y h
 ## 📚 Actualmente aprendiendo
 
 ```text
-☕ Java              █████████░░  80%
-🐍 Python            ████████░░░  70%
+☕ Java              ████░░░░░░░  40%
+🐍 Python            █████░░░░░░  55%
 ⚡ JavaScript        ███████░░░░  65%
 🌐 HTML & CSS        █████████░░  85%
 🅰️ Angular           ██████░░░░░  60%
@@ -73,7 +73,6 @@ Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y h
 * 🚀 Crear proyectos útiles e interesantes.
 * 🌎 Contribuir a proyectos de código abierto.
 * 📚 Compartir lo que aprendo con la comunidad.
-* 🎯 Construir experiencia para desarrollarme profesionalmente como **Full Stack Developer**.
 
 ---
 
