@@ -5,7 +5,7 @@
 ### 🎓 Estudiante de Ingeniería de Sistemas · 
 
 <p>
-  <i>Construyendo proyectos, aprendiendo nuevas tecnologías y creciendo línea por línea.</i>
+  <i>Construyendo proyectos, aprendiendo nuevas tecnologías.</i>
 </p>
 
 <img src="https://imgur.com/bPi1zdw.jpeg" width="100%" alt="Banner JheymerJP">
@@ -40,8 +40,6 @@ Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y h
 🍃 Spring Boot      
 🗄️ Bases de Datos    
 ```
-
-> *Los porcentajes representan mi progreso personal y se actualizan conforme continúo aprendiendo.*
 
 ---
 
