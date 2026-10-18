@@ -23,27 +23,6 @@ Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y h
 
 > 💡 Mi objetivo no es solamente aprender tecnologías, sino utilizarlas para crear soluciones reales.
 
----
-
-## 🛠️ Tecnologías & Herramientas
-
-<div align="center">
-
-### 💻 Lenguajes
-
-<img src="https://skillicons.dev/icons?i=java,python,html,css,js" alt="Lenguajes">
-
-### ⚡ Frameworks & Desarrollo
-
-<img src="https://skillicons.dev/icons?i=react,angular,spring" alt="Frameworks">
-
-### 🗄️ Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Bases de datos">
-
-### 🔧 Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" alt="Herramientas">
 
 </div>
 
@@ -52,14 +31,14 @@ Actualmente estoy fortaleciendo mis conocimientos en diferentes tecnologías y h
 ## 📚 Actualmente aprendiendo
 
 ```text
-☕ Java              ████░░░░░░░  40%
-🐍 Python            █████░░░░░░  55%
-⚡ JavaScript        ███████░░░░  65%
-🌐 HTML & CSS        █████████░░  85%
-🅰️ Angular           ██████░░░░░  60%
-⚛️ React             ██████░░░░░  60%
-🍃 Spring Boot       ██████░░░░░  55%
-🗄️ Bases de Datos    ████████░░░  75%
+☕ Java             
+🐍 Python           
+⚡ JavaScript       
+🌐 HTML & CSS        
+🅰️ Angular           
+⚛️ React            
+🍃 Spring Boot      
+🗄️ Bases de Datos    
 ```
 
 > *Los porcentajes representan mi progreso personal y se actualizan conforme continúo aprendiendo.*
